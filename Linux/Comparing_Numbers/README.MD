@@ -1,3 +1,10 @@
+# Problem
+
+![problem](/Linux/Comparing_Numbers/problem.png)
+
+## Solution
+
+```bash
 read x
 read y
 
@@ -10,3 +17,4 @@ then
 else
     echo "X is equal to Y"
 fi
+```

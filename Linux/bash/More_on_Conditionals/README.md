@@ -1,3 +1,10 @@
+# Problem
+
+![problem](/Linux/More_on_Conditionals/problem.png)
+
+## Solution
+
+```bash
 read x
 read y
 read z
@@ -11,3 +18,4 @@ then
 else
     echo "SCALENE"
 fi
+```

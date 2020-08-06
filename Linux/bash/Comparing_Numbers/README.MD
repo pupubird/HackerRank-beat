@@ -1,6 +1,6 @@
 # Problem
 
-![problem](/Linux/Comparing_Numbers/problem.png)
+![problem](/Linux/bash/Comparing_Numbers/problem.png)
 
 ## Solution
 

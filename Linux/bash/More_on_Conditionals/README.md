@@ -1,6 +1,6 @@
 # Problem
 
-![problem](/Linux/More_on_Conditionals/problem.png)
+![problem](/Linux/bash/More_on_Conditionals/problem.png)
 
 ## Solution
 

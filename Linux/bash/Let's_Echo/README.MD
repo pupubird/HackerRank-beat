@@ -1,6 +1,6 @@
 # Problem
 
-![problem](/Linux/Let's_Echo/problem.jpg)
+![problem](/Linux/bash/Let's_Echo/problem.jpg)
 
 ## Solution
 

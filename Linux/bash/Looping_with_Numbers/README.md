@@ -1,6 +1,6 @@
 # Problem
 
-![problem](/Linux/Looping_with_Numbers/problem.jpg)
+![problem](/Linux/bash/Looping_with_Numbers/problem.jpg)
 
 ## Solution
 

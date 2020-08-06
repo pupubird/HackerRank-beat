@@ -1,6 +1,6 @@
 # Problem
 
-![problem](/Linux/Looping_and_Skipping/problem.jpg)
+![problem](/Linux/bash/Looping_and_Skipping/problem.jpg)
 
 ## Solution
 

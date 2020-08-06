@@ -1,6 +1,6 @@
 # Problem
 
-![problem](/Linux/The_World_of_Numbers/problem.jpg)
+![problem](/Linux/bash/The_World_of_Numbers/problem.jpg)
 
 ## Solution
 

@@ -21,8 +21,7 @@ fi
 ```
 
 Discovered a better solution:
-[https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/forum/comments/299738](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/forum/comments/299738) by 
-swdotca
+[https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/forum/comments/299738](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/forum/comments/299738) by swdotca
 
 ```bash
 # Solution based on counting number of unique values
